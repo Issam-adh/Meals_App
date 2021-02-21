@@ -8,7 +8,7 @@ import 'screens/Categories_screen.dart';
 import 'screens/category_meals_screen.dart';
 import 'screens/meal_detail_screen.dart';
 
-void main() {
+void main() { 
   runApp(MyApp());
 }
 
